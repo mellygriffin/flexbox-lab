@@ -129,8 +129,8 @@
     font-size: 14px;
     display: flex;
     flex-direction: row;
-    align-self: left;
-    gap: 100px;
+    align-self: stretch;
+    gap: 200px;
     justify-content: space-evenly;
 
   }
