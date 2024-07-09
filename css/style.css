@@ -143,8 +143,9 @@
     padding: 32px 72px 0;
     background-color: white;
     display: flex;
-    gap: 75%;
+    gap: 80%;
     align-items: center;
+    justify-content: space-evenly;
   }
 
   #sort {
